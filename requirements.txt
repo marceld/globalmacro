@@ -16,7 +16,7 @@ configobj==5.0.6
 configparser==3.7.4
 contextlib2==0.5.5
 cookiecutter==1.6.0
-cryptography==2.6.1
+cryptography==3.2
 cycler==0.10.0
 decorator==4.3.2
 defusedxml==0.5.0
