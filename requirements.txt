@@ -108,7 +108,7 @@ tia==0.3.0
 tornado==5.1.1
 traitlets==4.3.2
 twitter==1.18.0
-urllib3==1.21.1
+urllib3==1.26.5
 wcwidth==0.1.7
 webencodings==0.5.1
 whichcraft==0.5.2
