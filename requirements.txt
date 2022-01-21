@@ -33,7 +33,7 @@ idna==2.5
 inflection==0.3.1
 ipykernel==5.1.0
 ipysheet==0.3.0
-ipython==7.2.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 jedi==0.13.2
