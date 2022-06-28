@@ -1,6 +1,6 @@
 appdirs==1.4.3
 appnope==0.1.0
-arrow==0.13.1
+arrow==0.15.1
 asciimatics==1.10.0
 asn1crypto==0.24.0
 backcall==0.1.0
