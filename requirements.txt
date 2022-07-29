@@ -50,7 +50,7 @@ lxml==4.3.2
 MarkupSafe==1.1.0
 matplotlib==3.0.2
 missingno==0.4.1
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==6.0.0
 nanotime==0.5.2
 nbconvert==5.4.1
