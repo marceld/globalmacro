@@ -53,7 +53,7 @@ missingno==0.4.1
 mistune==0.8.4
 more-itertools==6.0.0
 nanotime==0.5.2
-nbconvert==5.4.1
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.2
 newsapi-python==0.2.3
